@@ -1,0 +1,25 @@
+apiVersion: policy/v1beta1
+kind: PodSecurityPolicy
+metadata:
+  name: {{ include "ownershipservice.fullname" . }}-psp
+  labels:
+    {{- include "ownershipservice.labels" . | nindent 4 }}
+spec:
+  allowPrivilegeEscalation: false
+  fsGroup:
+    rule: MustRunAs
+    ranges:
+      - min: 1000
+        max: 1000
+  runAsUser:
+    rule: MustRunAsNonRoot
+  seLinux:
+    rule: RunAsAny
+  supplementalGroups:
+    rule: MustRunAs
+    ranges:
+      - min: 1000
+        max: 1000
+  volumes:
+  - secret
+  - emptyDir
