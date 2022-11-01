@@ -3,9 +3,9 @@ entries:
   apigateway-ownership-service:
   - apiVersion: v2
     appVersion: v1.0.13
-    created: "2022-10-31T16:22:51.793863398Z"
+    created: "2022-11-01T09:29:11.499782808Z"
     description: A Helm chart for Kubernetes
-    digest: 5329c28facc7cfdd0b712f1c27526718cd15754c1cc25fc0b99bac9ff375e633
+    digest: ea277a910380a3842f04350eeb0f60de0595824fa4fdc438ee61d296d33639f0
     name: apigateway-ownership-service
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 0.0.0-d905f984d7f3ba5f570cb98c626bd6d028a5b156
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-31T16:22:51.793303787Z"
+    created: "2022-11-01T09:29:11.499053302Z"
     description: A Helm chart for Kubernetes
     digest: f43842a34fdd4e4063a3c841ffe2e3d0efb93b2729e6723294900a95fcacdfa8
     name: apigateway-ownership-service
@@ -23,7 +23,7 @@ entries:
     version: 0.0.0-8d0f6248e7f5339cf2f454238e08986c216c8dc8
   - apiVersion: v2
     appVersion: 1.0.8
-    created: "2022-10-31T16:22:51.79246597Z"
+    created: "2022-11-01T09:29:11.498362597Z"
     description: A Helm chart for Kubernetes
     digest: e6646e27477b34b93fbecee0ba9d40642415855c0befe2ff47efa7b8d08b505e
     name: apigateway-ownership-service
@@ -31,4 +31,4 @@ entries:
     urls:
     - https://THG-API-Gateway.github.io/apigateway-app-catalog/apigateway-ownership-service-0.0.0-040cc197d2303d8c13f057da34b4df82065d5385.tgz
     version: 0.0.0-040cc197d2303d8c13f057da34b4df82065d5385
-generated: "2022-10-31T16:22:51.791544151Z"
+generated: "2022-11-01T09:29:11.49739329Z"
