@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   apigateway-ownership-service:
   - apiVersion: v2
+    appVersion: 1.0.33
+    created: "2022-11-16T11:32:49.731080576Z"
+    description: A Helm chart for Kubernetes
+    digest: 9175e174dfd24c5ff0b09ad99bb2359ed5e8f998f2f097e40d37f666d18c6bfe
+    name: apigateway-ownership-service
+    type: application
+    urls:
+    - https://THG-API-Gateway.github.io/apigateway-app-catalog/apigateway-ownership-service-1.0.33.tgz
+    version: 1.0.33
+  - apiVersion: v2
     appVersion: 1.0.32
-    created: "2022-11-16T11:10:38.016242968Z"
+    created: "2022-11-16T11:32:49.730379029Z"
     description: A Helm chart for Kubernetes
     digest: 475666e6288de98334b4e5a5063c4d03385fd2447d2309b5328ecb1e74dcb877
     name: apigateway-ownership-service
@@ -13,7 +23,7 @@ entries:
     version: 1.0.32
   - apiVersion: v2
     appVersion: 1.0.30
-    created: "2022-11-16T11:10:38.015772963Z"
+    created: "2022-11-16T11:32:49.72957289Z"
     description: A Helm chart for Kubernetes
     digest: 36530a42c6983322fdc3154c102c003fd8babded98aa4e56b42fcbfb2785ef20
     name: apigateway-ownership-service
@@ -23,7 +33,7 @@ entries:
     version: 1.0.30
   - apiVersion: v2
     appVersion: 1.0.29
-    created: "2022-11-16T11:10:38.014616353Z"
+    created: "2022-11-16T11:32:49.728224692Z"
     description: A Helm chart for Kubernetes
     digest: 3cf331758ffc6881f9094e3880e3f41b122521b8b4bedd49d9a9636fd72cd1bb
     name: apigateway-ownership-service
@@ -33,7 +43,7 @@ entries:
     version: 1.0.29
   - apiVersion: v2
     appVersion: 1.0.14
-    created: "2022-11-16T11:10:38.012810337Z"
+    created: "2022-11-16T11:32:49.727286363Z"
     description: A Helm chart for Kubernetes
     digest: 42a6d6534146ec296035dd24e7911b3626477bb00703fb33f28dd85a61299c36
     name: apigateway-ownership-service
@@ -43,7 +53,7 @@ entries:
     version: 1.0.14
   - apiVersion: v2
     appVersion: v1.0.32
-    created: "2022-11-16T11:10:38.01212533Z"
+    created: "2022-11-16T11:32:49.7267994Z"
     description: A Helm chart for Kubernetes
     digest: 0ceabc47f5e8262b7cd187eaf7a0d7de89fa5d53b2b95bddca2d223cb836f768
     name: apigateway-ownership-service
@@ -53,7 +63,7 @@ entries:
     version: 1.0.10
   - apiVersion: v2
     appVersion: v1.0.31
-    created: "2022-11-16T11:10:38.018242386Z"
+    created: "2022-11-16T11:32:49.733640882Z"
     description: A Helm chart for Kubernetes
     digest: 82dcdebecfc2af050345a97e3e64e9f85b261489abfb5ba3613053c702ab30a4
     name: apigateway-ownership-service
@@ -63,7 +73,7 @@ entries:
     version: 1.0.9
   - apiVersion: v2
     appVersion: v1.0.30
-    created: "2022-11-16T11:10:38.017735581Z"
+    created: "2022-11-16T11:32:49.733152919Z"
     description: A Helm chart for Kubernetes
     digest: dd59aadf4a16fdcc78d878978ff72584cdcbe0f8a02f0b3fc797c89f74bcd05a
     name: apigateway-ownership-service
@@ -73,7 +83,7 @@ entries:
     version: 1.0.7
   - apiVersion: v2
     appVersion: v1.0.29
-    created: "2022-11-16T11:10:38.017223476Z"
+    created: "2022-11-16T11:32:49.732657157Z"
     description: A Helm chart for Kubernetes
     digest: 64af44f104c57e161b2f8ef512c5fe2c727b8db45364109032862ee952bed7a2
     name: apigateway-ownership-service
@@ -83,7 +93,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: v1.0.28
-    created: "2022-11-16T11:10:38.016728872Z"
+    created: "2022-11-16T11:32:49.732114398Z"
     description: A Helm chart for Kubernetes
     digest: 60b5443988a5322237ef362598285711ccd2fd0be9cb92c0b9b55b614a2dd7a8
     name: apigateway-ownership-service
@@ -93,7 +103,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: v1.0.27
-    created: "2022-11-16T11:10:38.015292659Z"
+    created: "2022-11-16T11:32:49.728702956Z"
     description: A Helm chart for Kubernetes
     digest: 4d210becfa2acf293298f552dd0793c16463e014fa4fd5be01689f275dfd0570
     name: apigateway-ownership-service
@@ -103,7 +113,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: v1.0.25
-    created: "2022-11-16T11:10:38.013990347Z"
+    created: "2022-11-16T11:32:49.727771127Z"
     description: A Helm chart for Kubernetes
     digest: 30af57ed5a8c69646785b58a8c1134852eb409a16f1fa40f67b90a3abc2100f8
     name: apigateway-ownership-service
@@ -113,7 +123,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: v1.0.19
-    created: "2022-11-16T11:10:38.010788118Z"
+    created: "2022-11-16T11:32:49.726306438Z"
     description: A Helm chart for Kubernetes
     digest: 0f3cfdab98847b16dfacbcea979ce902acc705e18b2372e3b7702a3cfd46c3ff
     name: apigateway-ownership-service
@@ -123,7 +133,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: v1.0.13
-    created: "2022-11-16T11:10:38.010097012Z"
+    created: "2022-11-16T11:32:49.725794976Z"
     description: A Helm chart for Kubernetes
     digest: ea277a910380a3842f04350eeb0f60de0595824fa4fdc438ee61d296d33639f0
     name: apigateway-ownership-service
@@ -133,7 +143,7 @@ entries:
     version: 0.0.0-d905f984d7f3ba5f570cb98c626bd6d028a5b156
   - apiVersion: v2
     appVersion: v1.0.13
-    created: "2022-11-16T11:10:38.009102503Z"
+    created: "2022-11-16T11:32:49.725291715Z"
     description: A Helm chart for Kubernetes
     digest: d248600781edd4bb51983f335f4ef61ea83962d7ceac29f5b4b02eecea184a05
     name: apigateway-ownership-service
@@ -143,7 +153,7 @@ entries:
     version: 0.0.0-cade989e867f9476685dcf49c4d93c73e3fd8688
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-11-16T11:10:38.008576998Z"
+    created: "2022-11-16T11:32:49.724772954Z"
     description: A Helm chart for Kubernetes
     digest: f43842a34fdd4e4063a3c841ffe2e3d0efb93b2729e6723294900a95fcacdfa8
     name: apigateway-ownership-service
@@ -153,7 +163,7 @@ entries:
     version: 0.0.0-8d0f6248e7f5339cf2f454238e08986c216c8dc8
   - apiVersion: v2
     appVersion: v1.0.19
-    created: "2022-11-16T11:10:38.008089894Z"
+    created: "2022-11-16T11:32:49.724235895Z"
     description: A Helm chart for Kubernetes
     digest: ba226ccc059b1f098e4d1fdcd04e621a6858c4933d47e71fc3548b0d74da7a7d
     name: apigateway-ownership-service
@@ -163,7 +173,7 @@ entries:
     version: 0.0.0-37f00a4954aa5a0e18639a8cda9ae2984996cabc
   - apiVersion: v2
     appVersion: v1.0.19
-    created: "2022-11-16T11:10:38.007578389Z"
+    created: "2022-11-16T11:32:49.723687236Z"
     description: A Helm chart for Kubernetes
     digest: ee7cd2a54d615a9aa333976a7aeeee37d33e14aee8f36fbccd2fc0882cf3f8ed
     name: apigateway-ownership-service
@@ -173,7 +183,7 @@ entries:
     version: 0.0.0-2e3ac7bd333f714bf80214cb5f13e07706bb091f
   - apiVersion: v2
     appVersion: v0.0.4
-    created: "2022-11-16T11:10:38.007072685Z"
+    created: "2022-11-16T11:32:49.72310308Z"
     description: A Helm chart for Kubernetes
     digest: 3869d46d701bedd9cd327e4586793032952c7539323abf9b41361c3736de445f
     name: apigateway-ownership-service
@@ -183,7 +193,7 @@ entries:
     version: 0.0.0-2775cd1351bd5a4c1008101f395b55051655b5f8
   - apiVersion: v2
     appVersion: v1.0.19
-    created: "2022-11-16T11:10:38.00648818Z"
+    created: "2022-11-16T11:32:49.722528024Z"
     description: A Helm chart for Kubernetes
     digest: 376e2180cd1545add9aba070feccfe5becbe703e2cf52a40d2010988d810ff75
     name: apigateway-ownership-service
@@ -193,7 +203,7 @@ entries:
     version: 0.0.0-21ffb161f5e4aa95870c884572fae306f59aa790
   - apiVersion: v2
     appVersion: v1.0.19
-    created: "2022-11-16T11:10:38.005922674Z"
+    created: "2022-11-16T11:32:49.721767082Z"
     description: A Helm chart for Kubernetes
     digest: 52988d712d7cafc9134e4d57ed99f3a0225c19ff56babdb801b491f04525c9dc
     name: apigateway-ownership-service
@@ -203,7 +213,7 @@ entries:
     version: 0.0.0-1c652be37f8ba3132ada02420660e569cbb792d8
   - apiVersion: v2
     appVersion: 1.0.8
-    created: "2022-11-16T11:10:38.005302569Z"
+    created: "2022-11-16T11:32:49.720644667Z"
     description: A Helm chart for Kubernetes
     digest: e6646e27477b34b93fbecee0ba9d40642415855c0befe2ff47efa7b8d08b505e
     name: apigateway-ownership-service
@@ -211,4 +221,4 @@ entries:
     urls:
     - https://THG-API-Gateway.github.io/apigateway-app-catalog/apigateway-ownership-service-0.0.0-040cc197d2303d8c13f057da34b4df82065d5385.tgz
     version: 0.0.0-040cc197d2303d8c13f057da34b4df82065d5385
-generated: "2022-11-16T11:10:38.004518362Z"
+generated: "2022-11-16T11:32:49.719032689Z"
